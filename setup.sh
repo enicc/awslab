@@ -13,4 +13,9 @@ for command in kubectl jq envsubst
   done
   
 #https://eksworkshop.com/prerequisites/iamrole/
-https://eksworkshop.com/prerequisites/workspaceiam/
+#https://eksworkshop.com/prerequisites/workspaceiam/
+
+cd ~/environment
+git clone https://github.com/brentley/ecsdemo-frontend.git
+git clone https://github.com/brentley/ecsdemo-nodejs.git
+git clone https://github.com/brentley/ecsdemo-crystal.git

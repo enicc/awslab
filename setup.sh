@@ -13,3 +13,4 @@ for command in kubectl jq envsubst
   done
   
 #https://eksworkshop.com/prerequisites/iamrole/
+https://eksworkshop.com/prerequisites/workspaceiam/
